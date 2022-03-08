@@ -1,0 +1,2 @@
+#!/bin/install
+echo $((2#BINARY))\
